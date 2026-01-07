@@ -3,7 +3,7 @@
   Print Forge is a modern Next.js App Router project built while learning Next.js through a guided course on Scrimba.
   The application showcases a collection of 3D-printable models with category-based navigation, dynamic routes, and server-side data handling.
 
-  ---
+---
 
 ## 🚀 Project Overview
 
@@ -19,6 +19,8 @@
   - Navigate through a clean, component-based UI
 
   - The project focuses on real-world Next.js fundamentals rather than just UI.
+
+---
 
 ## 🧠 What I Learned
 
@@ -38,6 +40,8 @@
 
   - ✅ Scalable folder and component structure
 
+---
+
 ## ✨ Features
 
   - 📦 Server-rendered pages for performance
@@ -51,6 +55,8 @@
   - 📱 Responsive layout
 
   - 🧠 Clean separation of data, logic, and UI
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -107,10 +113,14 @@ app/
 
 ```
 
+---
+
 ## 📌 Credits
 
 This project was built while following a Next.js course on Scrimba.
 While the core structure comes from the course, I focused on understanding why each pattern is used and how it applies to real-world applications.
+
+---
 
 ## 📈 Why This Project Matters
 
@@ -125,6 +135,7 @@ It demonstrates my understanding of:
 
   - Clean project organization
 
+---
 ## 🔗 Portfolio
 
 👉 https://www.lalman.dev/
