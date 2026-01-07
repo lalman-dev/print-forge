@@ -26,7 +26,7 @@ export default function Home() {
             </Link>
           </div>
         </div>
-        <img src={HeroImage.src} className="w-[350px] h-auto rounded-lg" />
+        <img src={HeroImage.src} className="w-87.5 h-auto rounded-lg" />
       </section>
     </main>
   )
